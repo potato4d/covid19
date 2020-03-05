@@ -103,7 +103,8 @@ module.exports = {
         vueI18nLoader: true
       }
     ],
-    'nuxt-svg-loader'
+    'nuxt-svg-loader',
+    'nuxt-purgecss'
   ],
   /*
    ** Axios module configuration
